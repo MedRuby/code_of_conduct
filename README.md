@@ -1,2 +1,2 @@
-# code_of_conduct
+# Code of Conduct
 Code of Conduct for Mediterranean Ruby
